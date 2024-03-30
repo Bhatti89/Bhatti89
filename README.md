@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://bhatti89.github.io/Portfolio_Website_/](https://bhatti89.github.io/Portfolio_Website_/)
-
 - 💬 Ask me about **AI, Machine Learning, Data Analytics, Laravel, Html, Css and Javascript**
 
 - ⚡ Fun fact **I love to play cricket**
