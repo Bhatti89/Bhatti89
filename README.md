@@ -3,19 +3,19 @@
 
 <hr/>
 
-<h2 align="center">⚡ A Software Engineer and Data Analyst ⚡</h2>
+<h2 align="center">⚡ A Software Engineer, Data Analyst And SQA Engineer ⚡</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatti89&label=Profile%20views&color=0e75b6&style=flat" alt="bhatti89" /> </p>
 
 
-  - 🔭 I’m currently working on **Machine Learning, Data Analytis and ReactJs**
+  - 🔭 I’m currently working on **Software Testing, Data Analytis and Machine Learning**
 	
-  - 🌱 I’m currently learning **Data Analytics, Machine Learning and ReactJs**
+  - 🌱 I’m currently learning **Data Analytics adnd Machine Learning**
 
-  - 👯 I’m looking to collaborate on **Machine Learning and Web Development Projects**
+  - 👯 I’m looking to collaborate on **Machine Learning and Data Analytics Projects**
 		    
-  - 💬 Ask me about **AI, Machine Learning, Data Analytics, Laravel, Html, Css and Javascript**
+  - 💬 Ask me about **AI, Machine Learning, Data Analytics, Quality Assurance**
 		    
   - ⚡ **I love to play cricket** 
   
