@@ -3,7 +3,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ A Software Engineer, Data Analyst And SQA Engineer ⚡</h2>
+<h2 align="center">⚡ A Software Engineer ⚡</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatti89&label=Profile%20views&color=0e75b6&style=flat" alt="bhatti89" /> </p>
