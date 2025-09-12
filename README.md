@@ -9,13 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatti89&label=Profile%20views&color=0e75b6&style=flat" alt="bhatti89" /> </p>
 
 
-  - 🔭 I’m currently working on **App Store Optimizatipn**
-	
-  - 🌱 I’m currently learning **Store Listing, Keywords Research, Google Play and ASO Tools**
+  - 🔭 Currently working on **Data Analysis**
 
-  - 👯 I’m looking to collaborate on **ASO and Data Analytics Projects**
+  - 👯 I’m looking to collaborate on **Data Analytics adn AI Projects**
 		    
-  - 💬 Ask me about **ASO and Data Analytics**
+  - 💬 Ask me about **AI, Data Analytics and Python**
 		    
   - ⚡ **I love to play cricket** 
   
