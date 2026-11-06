@@ -44,5 +44,3 @@ Each one has a live demo and a public project page. The source code is kept priv
 ### Contact
 
 [Website](https://twinstackstudio.com) · [Email](mailto:wasilbhatti47@gmail.com) · [TwinStack on LinkedIn](https://www.linkedin.com/company/twinstack-studio)
-
-BS Computer Science, COMSATS University Islamabad (2024).
